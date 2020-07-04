@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Linum Labs
+- 🔭 I’m currently working at L-Labs
 - 🌱 I’m currently learning solidity and typescript
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with Stripe API
