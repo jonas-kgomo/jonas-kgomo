@@ -2,7 +2,7 @@
 
 <!--
 **jonas-kgomo/jonas-kgomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Linum Labs
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jonaskgmoo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 💻
--->
+
