@@ -33,3 +33,16 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+        - name: Update README
+        env:
+          JONAS_TOKEN: ${{ secrets.JONAS_TOKEN }}
+      run: |- 
+          python build_readme.py
+          cat README.md
+      - name: Commit and push if README changed
+        run: |-
+          git diff
+          git config --global user.email "jonaskgmoo@gmail.com"
+          git config --global user.name "jonas-kgomo"
+          git diff --quiet || (git add README.md && git commit -m "Updated README")
+          git push
