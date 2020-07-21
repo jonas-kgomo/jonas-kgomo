@@ -8,8 +8,8 @@ Here are some things about me:
 - 🔭 I’m currently working a freelancer
 - 🌱 I’m currently learning solidity and typescript
 - 👯 I’m looking to collaborate on open-source
-- 🤔 I’m looking for help with Stripe API
-- 💬 Ask me about GraphQL
+- 🤔 I’m looking for help with Stripe API 
+- 💬 Ask me about GraphQL & Gatsby JS
 - 📫 How to reach me: jonaskgmoo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 💻
