@@ -5,7 +5,7 @@
 -->
 Here are some things about me:
 
-- 🔭 I’m currently working a freelancer
+- 🔭 I’m currently working as a front-end engineer/consultant
 - 🌱 I’m currently learning solidity and typescript
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with Stripe API 
