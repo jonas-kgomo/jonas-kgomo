@@ -6,7 +6,7 @@
 Here are some things about me:
 
 - 🔭 I’m currently working as a front-end engineer/consultant
-- 🌱 I’m currently learning solidity and typescript
+- 🌱 I’m currently learning rescript and typescript
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with Stripe API 
 - 💬 Ask me about GraphQL & Gatsby JS
