@@ -19,3 +19,4 @@ Here are some things about me:
 
 <!-- recent_releases ends -->
 
+[jonas-kgomo[cv].pdf](https://github.com/jonas-kgomo/jonas-kgomo/files/13946897/jonas-kgomo.cv.pdf)
