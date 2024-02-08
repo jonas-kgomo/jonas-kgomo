@@ -5,7 +5,7 @@
 -->
 Here are some things about me:
 
-- 🔭 I’m currently working as a front-end engineer/consultant
+- 🔭 I'm a research engineer, founder Equiano Institute
 - 🌱 I’m currently learning rescript and typescript
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with Stripe API 
